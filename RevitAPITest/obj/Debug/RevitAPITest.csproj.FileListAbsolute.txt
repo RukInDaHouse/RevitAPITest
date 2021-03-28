@@ -1,0 +1,6 @@
+C:\Users\Ruk\Documents\GitHub\RevitAPITest\RevitAPITest\bin\Debug\RevitAPITest.dll
+C:\Users\Ruk\Documents\GitHub\RevitAPITest\RevitAPITest\bin\Debug\RevitAPITest.pdb
+C:\Users\Ruk\Documents\GitHub\RevitAPITest\RevitAPITest\obj\Debug\RevitAPITest.csprojAssemblyReference.cache
+C:\Users\Ruk\Documents\GitHub\RevitAPITest\RevitAPITest\obj\Debug\RevitAPITest.csproj.CoreCompileInputs.cache
+C:\Users\Ruk\Documents\GitHub\RevitAPITest\RevitAPITest\obj\Debug\RevitAPITest.dll
+C:\Users\Ruk\Documents\GitHub\RevitAPITest\RevitAPITest\obj\Debug\RevitAPITest.pdb
